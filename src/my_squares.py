@@ -1,7 +1,7 @@
-def my_squares(x):
+def my_squares(z):
     """ Takes a value and squares it
     Use the ** operator
     """
-    return(x ** 2)
+    return(z ** z)
 
-print(my_squares(4))
+print(my_squares(24))
